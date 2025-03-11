@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>a127818c885521107f44bb2a283c6b00</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_safety_issues">
+    <x_snc_safety_issues action="INSERT_OR_UPDATE">
+        <assigned_to display_value="Luke Wilson">46d96f57a9fe198101947a9620895886</assigned_to>
+        <category>small</category>
+        <due_date>2023-04-07</due_date>
+        <location display_value="Colorado Springs">aa3c49b037d0200044e0bfc8bcbe5dee</location>
+        <notes/>
+        <number>SAFT0001027</number>
+        <opened_by display_value="Justina Dragaj">06826bf03710200044e0bfc8bcbe5d81</opened_by>
+        <priority>moderate</priority>
+        <short_description>A large pot of chili was spilt near the paper supply room</short_description>
+        <state>working</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-23 20:34:42</sys_created_on>
+        <sys_id>a127818c885521107f44bb2a283c6b00</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-23 20:34:42</sys_updated_on>
+    </x_snc_safety_issues>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-23 21:46:14</sys_created_on>
+        <sys_id>1d87dd0088d521107f44bb2a283c6bc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SAFT0001027</sys_name>
+        <sys_package display_value="Safety" source="x_snc_safety">4556814c885521107f44bb2a283c6bc6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">4556814c885521107f44bb2a283c6bc6</sys_scope>
+        <sys_update_name>sys_metadata_link_1d87dd0088d521107f44bb2a283c6bc6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-23 21:46:14</sys_updated_on>
+        <tablename>x_snc_safety_issues</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_m2m_asset">
+    <sys_ux_theme_m2m_asset action="INSERT_OR_UPDATE">
+        <asset display_value="now-logo-dark">cf1f09c4b8952110ddc599b82249543b</asset>
+        <properties>{&#13;
+"position": "header_logo"&#13;
+}</properties>
+        <sys_class_name>sys_ux_theme_m2m_asset</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-23 21:09:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>031f09c4789521100ffdf71bdfb87f3c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Safety" source="x_snc_safety">4556814c885521107f44bb2a283c6bc6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">4556814c885521107f44bb2a283c6bc6</sys_scope>
+        <sys_update_name>sys_ux_theme_m2m_asset_031f09c4789521100ffdf71bdfb87f3c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-23 21:09:32</sys_updated_on>
+        <theme display_value="Light Theme">871f09c47295211018ce1eda8375b14e</theme>
+    </sys_ux_theme_m2m_asset>
+</record_update>

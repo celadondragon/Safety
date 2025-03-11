@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="4069c140889521107f44bb2a283c6b7a" sys_domain="global" table="x_snc_safety_issues" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-23 20:44:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4869c140889521107f44bb2a283c6b7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_safety_issues" name="x_snc_safety_issues" sys_domain="global" view="Default view">4069c140889521107f44bb2a283c6b7a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_safety_issues" sys_domain="global" view="Default view">5e47098c885521107f44bb2a283c6b12</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-23 20:44:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-23 20:44:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4469c140889521107f44bb2a283c6b7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_safety_issues" name="x_snc_safety_issues" sys_domain="global" view="Default view">4069c140889521107f44bb2a283c6b7a</sys_ui_form>
+            <sys_ui_section caption="Details" display_value="Details" name="x_snc_safety_issues" sys_domain="global" view="Default view">8469c140889521107f44bb2a283c6b78</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-23 20:44:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_safety_issues</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-23 20:44:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4069c140889521107f44bb2a283c6b7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_safety_issues</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Safety" source="x_snc_safety">4556814c885521107f44bb2a283c6bc6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Safety">4556814c885521107f44bb2a283c6bc6</sys_scope>
+            <sys_update_name>sys_ui_form_sections_4069c140889521107f44bb2a283c6b7a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-23 20:44:26</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
